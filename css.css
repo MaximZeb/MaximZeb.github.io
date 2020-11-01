@@ -1,0 +1,156 @@
+.navbar-default {
+	background-color:#4386FC;
+}
+body {
+	color:black;
+	font-family:'Roboto', sans-serif;
+      position: relative; 
+  }
+ #section1 {background-image:url("image/top.jpg");padding-top:50px;min-height:1080px;max-width:100%;color: #fff;}
+
+ #section12 {background-repeat:no-repeat;background-image:url("image/MD.gif");padding-top:50px;min-height:800px;max-width:100%;color: #fff;}
+
+ #section13 {background-repeat:no-repeat;background-image:url("image/XS.gif");padding-top:50px;min-height:600px;max-width:100%;color: #fff;}
+ #section14 {background-repeat:no-repeat;background-image:url("image/sm.gif");padding-top:50px;min-height:600px;max-width:100%;color: #fff;}
+ #section2 {padding-top:50px;height:auto;color:; background-color:;font-size:30px;}
+ #section3 {padding-top:50px;height:auto;color: ; background-color:#FFFFFF;}
+ #section41 {padding-top:50px;height:500px;color: ; background-color:#F6F6F6;}
+ #section42 {padding-top:50px;height:500px;color: ; background-color:#F6F6F6;}
+ #section43 {padding-top:50px;height:400px;color: ; background-color:#F6F6F6;}
+ #section44 {padding-top:50px;height:300px;color: ; background-color:#F6F6F6;}
+ li{
+ 	margin-left:10px;
+ }
+ .her{
+ 	margin-bottom:5px;
+ 	text-align:center;
+ 	font-size:43px;
+ }
+ .wer {
+
+ }
+ span{
+ 	display:block;
+ }
+ h1{
+ 	text-align:center;
+ }
+ 
+ .zx{
+ 	padding-top:16px;
+ 	text-align:center;
+ 	color:black;;
+ }
+ .zx1{
+ 	padding-top:px;
+ 	text-align:center;
+ 	color:black;;
+ }
+ #qwe{
+ 	border:#4386FC solid 1px;
+ 	height:50px;
+ 	width:300px;
+ 	background-color: #4386FC;
+ }
+ #sed{
+ 	text-decoration: none;
+ }
+
+ #yer{
+ 	margin:5px;
+ 	font-size: 25px; 
+ 	font-family: 'Harmattan', sans-serif;
+ 	text-align:center;
+ 	color:black;
+ }
+
+#tab{
+	font-size: 30px;
+	background-color: #4386FC;
+}
+#qer{
+ 	font-family: 'Harmattan', sans-serif;
+ 	margin-top: 420px;
+ 	text-align:center;
+ 	font-size:60px;
+ 	color:black;
+ }
+#ter{
+	
+}
+#gfd{
+margin-left: 800px;
+}
+#qer12{
+ 	font-family: 'Harmattan', sans-serif;
+ 	margin-top: 300px;
+ 	text-align:center;
+ 	font-size:50px;
+ 	color:black;
+ }
+#ter12{
+	
+}
+#gfd12{
+margin-left: 350px;
+}
+#qer13{
+ 	font-family: 'Harmattan', sans-serif;
+ 	margin-top: 250px;
+ 	text-align:center;
+ 	font-size:40px;
+ 	color:black;
+ }
+#ter13{
+	
+}
+#gfd13{
+margin-left: 250px;
+}
+#qer14{
+ 	font-family: 'Harmattan', sans-serif;
+ 	margin-top: 250px;
+ 	text-align:center;
+ 	font-size:40px;
+ 	color:black;
+ }
+#ter14{
+	
+}
+#gfd14{
+margin-left: 150px;
+}
+
+#max  {
+	background-color: #4386FC
+}
+a{
+	color:black;
+}
+#fer{
+	text-align:center;
+}
+#per1{
+	font-family:'Roboto', sans-serif;
+	font-size: 40px;
+	margin-left:500px;
+	list-style-type:none;
+}
+#per2{
+	font-family:'Roboto', sans-serif;
+	font-size: 38px;
+	margin-left:150px;
+	list-style-type:none;
+}
+#per3{
+	font-family:'Roboto', sans-serif;
+	font-size: 30px;
+	margin-left:150px;
+	list-style-type:none;
+}
+#per4{
+	font-family:'Roboto', sans-serif;
+	font-size: 20px;
+	margin-left:100px;
+	list-style-type:none;
+}
